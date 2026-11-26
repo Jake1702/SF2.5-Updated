@@ -1658,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatflow.pw.toml"
-hash = "407827cc298d460f2fb856e3ac2f0a97fe865848a0df02bd8b9dc006416c0d05"
+hash = "4ccf75a9824ba6e4ed1e8128209847f39f654435ef86a9726add9fc554f2094d"
 metafile = true
 
 [[files]]
@@ -1718,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
-hash = "d20c5e3307203ec1d5286864494e149d1364168449e3c3aa5c585fac9785777d"
+hash = "52e4224493d2f1f3ef9db5a540b33542df96c512a7da6590e1e0b9b4221550c2"
 metafile = true
 
 [[files]]
@@ -2053,7 +2053,7 @@ metafile = true
 
 [[files]]
 file = "mods/notfine.pw.toml"
-hash = "8792538915523897041df2385d9d3c41656e758a8483add8bbd3c993dcf16ef7"
+hash = "be5d3199ce192ebfe20687f89439cf00c0898289d374e87d727f514a52049fb9"
 metafile = true
 
 [[files]]
@@ -2108,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-loader.pw.toml"
-hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+hash = "8403c11fa2595992f363b50488e3c96d8736831c9c63a1d34caab16e25eb1d1f"
 metafile = true
 
 [[files]]
@@ -2298,12 +2298,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f42a901f08f6d39ff2cf1743f3412d0d4495393c16e9c367e55d48ac4fe4b215"
+hash = "74347b055c8c520681d3e412ea9d23d645898685aaa19db6ebd74e0ff49c9cdc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c998345a87b4d86c7196438c926970cde45d1a93dd680cd5d7e0a73263375d13"
+hash = "0b8d3c2d4af90a8df7eeabe66fb4811da495d51f9fcc3df96ab65adba4fbd07a"
 metafile = true
 
 [[files]]
