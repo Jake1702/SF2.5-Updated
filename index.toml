@@ -1558,7 +1558,7 @@ metafile = true
 
 [[files]]
 file = "mods/angellib.pw.toml"
-hash = "36746150ffa915813a675162673e9e0c5de78e67b9c0674f70722ff019c39332"
+hash = "b2e8b52c2ab08cc5c488e246b6415dd36bd9d591ca73c51d8691d5ed36ea12d5"
 metafile = true
 
 [[files]]
@@ -2273,7 +2273,7 @@ metafile = true
 
 [[files]]
 file = "mods/wawel-auth.pw.toml"
-hash = "d5c584643823b65456f4814a8b8f9421bef6134401fe43178821461a374ddc92"
+hash = "54e32063f85938438bd2c0e1f78e9746c27385e2d065f232618e4b944194ac9f"
 metafile = true
 
 [[files]]
