@@ -1772,6 +1772,11 @@ hash = "8a90610b2b49731ea0a985bf924bfc79664b9a3fc31e18f4863240785905bc43"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a3e4eb5256612db0684dff2da6e8feca2782f67c1337bc77bf505d89a3bae4b5"
+metafile = true
+
+[[files]]
 file = "mods/etfuturum.pw.toml"
 hash = "79cc505c6f5b21f85fe731736aad7a6ee95fd950d0ad5974a6f559429796347a"
 metafile = true
@@ -1939,6 +1944,11 @@ metafile = true
 [[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "3a3fd3db67f136becde47b895f13ba4b862a9e363952b05807003155d4c17100"
+metafile = true
+
+[[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "85bd8cbec076c6c10b6d5d023b00f48e6c708adf06c21489c5026dd4219868ac"
 metafile = true
 
 [[files]]
