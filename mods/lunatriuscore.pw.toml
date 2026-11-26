@@ -1,0 +1,8 @@
+name = "lunatriuscore"
+filename = "LunatriusCore-1.2.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.1-GTNH/LunatriusCore-1.2.1-GTNH.jar"
+hash-format = "sha256"
+hash = "65fca1d048e23798bc9f644e6d18bf51b2b77b5b3055e961b8ce49dad94e3cac"

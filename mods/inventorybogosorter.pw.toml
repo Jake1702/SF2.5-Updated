@@ -1,0 +1,8 @@
+name = "inventorybogosorter"
+filename = "bogosorter-1.4.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.4.0-GTNH/bogosorter-1.4.0-GTNH.jar"
+hash-format = "sha256"
+hash = "8a99c0e9173a02523b33262326d3ec5bf30f51d409aaa9d11af060ed85f6b999"

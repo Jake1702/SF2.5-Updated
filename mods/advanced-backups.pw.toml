@@ -1,0 +1,13 @@
+name = "Advanced Backups"
+filename = "AdvancedBackups-forge-1.7.10-3.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/OUGtkaRl/AdvancedBackups-forge-1.7.10-3.7.1.jar"
+hash-format = "sha512"
+hash = "959ecfd830a61d638cf8f2d95ddf49f06565b34354e6b8c1c05d8392f1b9ab01759002acfbb93c6e256740b795d6470024bb3ba644092be574ccc174e40414b0"
+
+[update]
+[update.modrinth]
+mod-id = "Jrmoreqs"
+version = "OUGtkaRl"

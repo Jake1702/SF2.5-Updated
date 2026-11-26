@@ -1,0 +1,13 @@
+name = "ModularUI"
+filename = "modularui2-2.4.4-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ecvd12QC/versions/kf8HF3pG/modularui2-2.4.4-1.7.10.jar"
+hash-format = "sha512"
+hash = "bcceeb7bb314e41162dc7e825d352f81ea1cc8e87c4e4ba9577d3e8f9a1e5107dfcf18178f9d3a80b5e220fa52afe51a3124c7ba8068d5cbe904a55f3b94f215"
+
+[update]
+[update.modrinth]
+mod-id = "Ecvd12QC"
+version = "kf8HF3pG"

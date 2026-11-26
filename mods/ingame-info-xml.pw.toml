@@ -1,0 +1,8 @@
+name = "ingame-info-xml"
+filename = "InGameInfoXML-2.10.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.10.2/InGameInfoXML-2.10.2.jar"
+hash-format = "sha256"
+hash = "fb7a8170590dab5894da1e2a1564cff9af5e2df5ea92f990f1783927c4a52763"

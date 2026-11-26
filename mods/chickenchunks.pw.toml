@@ -1,0 +1,8 @@
+name = "chickenchunks"
+filename = "ChickenChunks-1.3.4.30.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LITW-Refined/ChickenChunks/releases/download/1.3.4.30/ChickenChunks-1.3.4.30.jar"
+hash-format = "sha256"
+hash = "c03c1280378a59f550bfa7f5a583634239cc070cc603109f1727d2bafdc2398e"

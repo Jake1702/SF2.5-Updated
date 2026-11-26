@@ -1,0 +1,8 @@
+name = "ae2stuff"
+filename = "ae2stuff-0.10.20-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNH-Museum/ae2stuff/releases/download/0.10.20-GTNH/ae2stuff-0.10.20-GTNH.jar"
+hash-format = "sha256"
+hash = "da490cf34d0e4c483f23adc268cb6641c209dfa8ef95138348498e26392e9409"

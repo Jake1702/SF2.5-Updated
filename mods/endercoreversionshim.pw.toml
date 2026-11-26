@@ -1,0 +1,8 @@
+name = "EnderCoreVersionShim"
+filename = "EnderCoreVersionShim-1.0.jar"
+side = "both"
+
+[download]
+url = "https://files.catbox.moe/qggdo7.zip"
+hash-format = "sha256"
+hash = "0c1d1e916c26dfa4ba938b4f84e6f8b0617ddad165405144bb2a8bafdc27e197"

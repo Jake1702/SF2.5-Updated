@@ -1,0 +1,8 @@
+name = "wr-cbe"
+filename = "WR-CBE-1.7.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.13/WR-CBE-1.7.13.jar"
+hash-format = "sha256"
+hash = "c7b04182edddfbd6088ee31024e4efbc73b88a6ec9be206ec20fe3ea914e03e5"

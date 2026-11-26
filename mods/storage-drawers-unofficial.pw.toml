@@ -1,0 +1,13 @@
+name = "Storage Drawers Unofficial"
+filename = "StorageDrawers-2.3.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C0xOkNfT/versions/oYH4cjA9/StorageDrawers-2.3.0-GTNH.jar"
+hash-format = "sha512"
+hash = "0430f52c92978f267b61d38f8fbbc8f66d8385cf029c2ad5ca335c624c66efc2882be4168cc754559637e56f0d5ea557de3b4a5a16164b21646dcb7f79e3cb2c"
+
+[update]
+[update.modrinth]
+mod-id = "C0xOkNfT"
+version = "oYH4cjA9"

@@ -1,0 +1,13 @@
+name = "GTNH Lib"
+filename = "gtnhlib-0.11.58.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vTvnv7qp/versions/TTrMFI7U/gtnhlib-0.11.58.jar"
+hash-format = "sha512"
+hash = "c4ecbe04c0df694f572c8b4bf3ed5b267119e618b7ee5ad8fe05b491cd44799bb5c516d8474ebd519472a9917d35971b5dd2708a6858df7f7f792804786d7727"
+
+[update]
+[update.modrinth]
+mod-id = "vTvnv7qp"
+version = "TTrMFI7U"

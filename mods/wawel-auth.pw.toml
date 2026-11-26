@@ -1,0 +1,13 @@
+name = "Wawel Auth"
+filename = "wawelauth-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LncX1fVM/versions/GDtm7SSp/wawelauth-1.0.5.jar"
+hash-format = "sha512"
+hash = "0d92717680641d0b5d4a35370d11b694613572f3d35aa679b2aec2d72526aea5ec9486fb3b1f788acc911cfa9dfd90e5126803d55de54ca07bbb8b49f1c0dba2"
+
+[update]
+[update.modrinth]
+mod-id = "LncX1fVM"
+version = "GDtm7SSp"

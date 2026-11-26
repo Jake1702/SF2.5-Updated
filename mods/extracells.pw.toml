@@ -1,0 +1,8 @@
+name = "extracells"
+filename = "ExtraCells-2.5.35.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNH-Museum/ExtraCells2/releases/download/2.5.35/ExtraCells-2.5.35.jar"
+hash-format = "sha256"
+hash = "19d78083b8dfc1c65895ac978addb9d530865a029f1a22a5fe2d80ac4a8dfe6d"

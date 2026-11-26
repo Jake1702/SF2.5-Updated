@@ -1,0 +1,8 @@
+name = "wawlwa"
+filename = "Wawla-1.4.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/WAWLA/releases/download/1.4.1-GTNH/Wawla-1.4.1-GTNH.jar"
+hash-format = "sha256"
+hash = "1a7c48a631ee660a71b48a4c8af22426cc8e918a68e712a8721d4a0325c7f1e9"

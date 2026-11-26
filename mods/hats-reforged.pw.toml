@@ -1,0 +1,13 @@
+name = "Hats (Reforged)"
+filename = "Hats-4.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6d5b62d5b64e3c3b6c55befcd01f15dd8d5f7a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8456533
+project-id = 1568412

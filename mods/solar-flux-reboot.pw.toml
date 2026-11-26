@@ -1,0 +1,13 @@
+name = "Solar Flux: Reboot"
+filename = "solarfluxreboot-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e34086e90b3bec49f0a53275825b9432aef72788"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3527149
+project-id = 542440

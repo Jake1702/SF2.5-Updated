@@ -1,0 +1,8 @@
+name = "iguanatinkertweaks"
+filename = "IguanaTweaksTConstruct-2.8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.8.0/IguanaTweaksTConstruct-2.8.0.jar"
+hash-format = "sha256"
+hash = "b1be083292aaae44f6c3dd177f19c9bf61fed0ad664581aa607c50d8292e53dc"

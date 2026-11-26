@@ -1,0 +1,13 @@
+name = "AngelLib"
+filename = "angellib-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gicMzKg1/versions/rt8FNnuZ/angellib-1.0.3.jar"
+hash-format = "sha512"
+hash = "972eadb3aa62c962a49181942d4f56231d6c3ef741e7aef69809ba48d55497aed07a2094304e0261b609ced69712626a2043430219abf3a82df514992bedc129"
+
+[update]
+[update.modrinth]
+mod-id = "gicMzKg1"
+version = "rt8FNnuZ"

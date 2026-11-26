@@ -1,0 +1,13 @@
+name = "LibSandstone"
+filename = "LibSandstone-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36291c0998fd87927569f914ba0061d43b864c65"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2216352
+project-id = 224828

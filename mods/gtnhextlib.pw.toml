@@ -1,0 +1,8 @@
+name = "gtnhextlib"
+filename = "gtnhextlib-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.6/gtnhextlib-1.0.6.jar"
+hash-format = "sha256"
+hash = "dc200988c86ddad0b1ec25808400e1509216d9f840ef289ef5c74c316516dd5c"

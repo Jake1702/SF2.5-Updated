@@ -1,0 +1,13 @@
+name = "ServerUtilities - GTNH"
+filename = "ServerUtilities-2.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/shoiz23Z/versions/CWmwnRhT/ServerUtilities-2.5.7.jar"
+hash-format = "sha512"
+hash = "e4f0d276dfebea08764b1e9151bc7b12479b411da8dd8a24575d1f9c233c9f784cd3c0821ee50da308e08f85c975d9e411bc4158d5a0d4813057cf8ed794017c"
+
+[update]
+[update.modrinth]
+mod-id = "shoiz23Z"
+version = "CWmwnRhT"

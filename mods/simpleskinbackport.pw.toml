@@ -1,0 +1,8 @@
+name = "simpleskinbackport"
+filename = "simpleskinbackport-1.0.6-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/SimpleSkinBackport/releases/download/1.0.6-GTNH/simpleskinbackport-1.0.6-GTNH.jar"
+hash-format = "sha256"
+hash = "ae6bc70931d6bc5923277438cfc487cb3c80190785cda5629184f4ca96f69f36"
