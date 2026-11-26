@@ -1,0 +1,13 @@
+name = "lwjgl3ify"
+filename = "lwjgl3ify-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eC4lt4Oy/versions/QW9BoOQF/lwjgl3ify-3.1.1.jar"
+hash-format = "sha512"
+hash = "9f9aac2cfbc11a9710d23abb91df7511a97d599a77ed5a7102e1c96563541f7567167f5f80594f513e99c04296e1b37b0e0a841dfb48f59caba31c924e5aca3b"
+
+[update]
+[update.modrinth]
+mod-id = "eC4lt4Oy"
+version = "QW9BoOQF"
